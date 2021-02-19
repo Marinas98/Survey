@@ -1,0 +1,10 @@
+Question: Did you like pizza?
+Answer: yes
+Question: Did you like games?
+Answer: no
+Question: Do you like movies?
+Answer: yes
+Question: Do you enjoy doing sport?
+Answer: no
+Question: Do you love Python?
+Answer: yes
